@@ -6,6 +6,7 @@ Panelized breakouts.
 * 2x SOT-23-3 breakouts with GSD layout 0805 pull-ups / pull-downs.
 * SOT-223
 * TO-252-2 / DPAK
+* 2.1mm DC barrel jack.
 
 ## License
 
