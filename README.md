@@ -1,4 +1,4 @@
-# SOT-23 Breakouts
+# SMD Breakouts
 
 Panelized breakouts.
 
