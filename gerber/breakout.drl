@@ -1,14 +1,10 @@
 M48
-;DRILL file {KiCad 4.0.7+dfsg1-1} date Sun Nov 19 14:40:29 2017
-;FORMAT={2:4/ absolute / inch / suppress leading zeros}
-FMAT,2
 INCH,TZ
 T1C0.039
 T2C0.040
 %
 G90
 G05
-M72
 T2
 X20315Y-20315
 X20315Y-21315
